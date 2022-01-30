@@ -1,0 +1,8 @@
+search_input:
+  id: 'kw'
+candidate:
+  css: '.bdsug-overflow'
+search_candidates:
+  css: '#form div li'
+search_button:
+  id: 'su'
